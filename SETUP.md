@@ -13,7 +13,7 @@ git init
 Run the following command.
 
 ```sh
-echo "ensta-bigdata-2024-$USER"
+echo "ensta-bigdata-2025-$USER"
 ```
 
 Create a GitLab/GitHub repository with that name, and set the `origin` remote to it.
