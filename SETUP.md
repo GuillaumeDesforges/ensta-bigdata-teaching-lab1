@@ -4,11 +4,7 @@
 
 These labs are better tracked with Git.
 
-Start by initializing a Git repository in this folder.
-
-```sh
-git init
-```
+Start by cloning this Git repository.
 
 Run the following command.
 
