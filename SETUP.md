@@ -50,7 +50,7 @@ Download and extract Hadoop (version 3.4.1) in `./tmp/`.
 ```sh
 mkdir -p tmp/
 cd tmp/
-curl -L https://dlcdn.apache.org/hadoop/common/stable/hadoop-3.4.1.tar.gz -o hadoop-3.4.1.tar.gz
+curl -L https://dlcdn.apache.org/hadoop/common/hadoop-3.4.1/hadoop-3.4.1.tar.gz -o hadoop-3.4.1.tar.gz
 tar -xvzf hadoop-3.4.1.tar.gz
 cd ../
 ```
